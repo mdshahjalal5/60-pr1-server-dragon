@@ -1,0 +1,17 @@
+{
+  "name": "60-pr1-dragon-server",
+  "version": "1.0.0",
+  "description": "Project starting dada vaiya ",
+  "main": "serverInit.js",
+  "scripts": {
+    "test": "cmd"
+  },
+  "keywords": [
+    "hyperOptimistic"
+  ],
+  "author": "Md. Shahjalal Hyper optimistic",
+  "license": "MIT ",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
